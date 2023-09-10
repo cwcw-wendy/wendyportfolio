@@ -1,0 +1,1028 @@
+@media (min-width: 375px) {
+    .bar {
+        display: none;
+    }
+    .container {
+        
+            width: 375px;
+            height: 100%;
+        }
+        
+    .pet-banner {
+        
+    height: 650px;
+    background-image: url(../img/petapp/petapplongcover.png); 
+    background-position: center;
+    margin: 0 auto; 
+    overflow: hidden;
+    }
+    
+    .ds {
+        margin-top: 20px;
+        color:gray;
+    }
+    .ds .col-3 span{
+
+        margin-top: 20px;
+        font-size: 2vw;
+        font-weight: 700;
+    }
+    .ds .col-3 span p {
+        font-size: 0.8em;
+    }
+    
+    .p1 {
+        padding: 20px ;
+        
+    }
+    
+    .p1 h2 {
+        display: inline-block;
+        border-bottom: 6px solid rgb(252, 210, 154);
+    }
+    .p2 {
+        margin: 0 auto;
+        text-align: center;
+       
+        
+    }
+    .p2 h2 {
+        display: inline-block;
+        text-align: center;
+        
+        border-bottom: 6px solid rgb(252, 210, 154);
+        
+    }
+    .p3 {
+        margin: 0 auto;
+        text-align: center;
+        
+       
+        
+    }
+    .p3 h2 {
+        display: inline-block;
+        text-align: center;
+        
+        border-bottom: 6px solid rgb(252, 210, 154);
+        
+    }
+    .Designprocess {
+        width: 100%;
+    }
+    .red li::marker {
+        color: #F35D53;
+    }
+    .p1 ul {
+        padding-left: 15px;
+    }
+    .blue li::marker {
+        color: #75C3D5;
+    }
+    .green li::marker {
+        color: #82D575;
+    }
+    
+    .orange li::marker {
+        color: #FFC190;
+    }
+    
+    .blue p {
+        font-weight: bold;
+    }
+    .orange p{
+        font-weight: bold;
+    }
+
+    .Userinterviews {
+        margin: 0 auto;
+        text-align: center;
+    }
+   
+   
+    
+    
+    .emnathymap {
+        margin: 0 auto;
+       
+        width: 100%;
+        height: 100%; 
+    }
+    
+    .competitor {
+        margin: 0 auto;
+        width: 100%;
+        height: 100%;
+        
+    }
+    .swot {
+        width: 100%;
+        height: 100%;
+        margin: 0 auto;
+    }
+    .gain {
+        margin: 0 auto;
+        width: 100%;
+        height: 100%;
+    }
+    .info {
+        
+        width: 100%;
+        height: 100%;
+        margin: 0 auto;
+    }
+    .userflow {
+        margin: 0 auto;
+        width: 80%;
+        height: 80%;
+    
+    }
+    .colors {
+        margin: 0 auto;
+        width: 50%;
+        height: 50%;
+    } 
+    .typography {
+        margin: 0 auto;
+        width: 50%;
+        height: 50%;
+    }
+    .button {
+        margin: 0 auto;
+        width: 50%;
+        height: 50%;
+    }
+    .cards {
+        margin: 0 auto;
+        width: 70%;
+        height: 70%;
+    }
+    .draw {
+        margin: 0 auto;
+        width: 70%;
+        height: 70%;
+    }
+    .components {
+        margin: 0 auto;
+        width: 70%;
+        height: 70%;
+    }
+    .logob {
+        margin: 0 auto;
+        width: 10%;
+        height: 10%;
+    }
+    .wireframe {
+        margin: 0 auto;
+        width: 80%;
+        height: 80%;
+    }
+    
+    .onboarding {
+        margin: 0 auto;
+        width: 80%;
+        height: 80%;
+    }
+    }
+    .homepage {
+        margin: 0 auto;
+        width: 70%;
+        height: 70%;
+        
+        
+    }
+    .knowlege {
+        margin: 0 auto;
+        width: 70%;
+        height: 70%;
+    }
+    .addpostpage {
+        margin: 0 auto;
+        width: 70%;
+        height: 70%;
+    }
+    
+    .datepage {
+        margin: 0 auto;
+        width: 70%;
+        height: 70%;
+    }
+    
+    .profilepage {
+        margin: 0 auto;
+        width: 70%;
+        height: 70%;
+    }
+    
+    .searchpage {
+        margin: 0 auto;
+        width: 70%;
+        height: 70%;
+    }
+    
+    .allscreen {
+        margin: 0 auto;
+        width: 80%;
+        height: 80%;
+    }
+    
+    .p2 p {
+        color: gray;
+        font-size: 20px;
+    }
+    .footer-bd .container {
+        height: 720px;
+    }
+    
+    .more {
+        height: 720px;
+        margin-right: 0 auto;
+        margin-left: 0 auto;
+    }
+    
+    .more ul {
+        height: 500px;
+        margin: 0 auto;
+        padding: 0px;
+        text-align: center;
+    }
+    
+    .more ul li {
+       
+            display: inline-block;
+            position: relative;
+            top: 0;
+            width: 80px;
+            height: 300px;
+            text-align: left;
+            transition: all .3s;
+            list-style: none;
+            margin: 0 10px 10px;
+            margin-bottom: 5px;
+            border-radius: 4px;
+            background-color: #D9D9D9;
+            text-align: center;
+            line-height: 10px;
+    
+    
+    }
+    .more ul li:hover {
+        top: -3px;
+        box-shadow: 0 15px 30px rgb(0 0 0 / 10%);
+    }
+    
+    .more ul li a {
+        color: #000000;
+    } 
+    .more ul li img {
+        width: 100%;
+        height: 100%;
+    }
+    
+    .row {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .col {
+        flex:1 0 0;
+    }
+    .col-2 {
+        display: inline-block;
+        flex:0 0 calc(100% / 12 * 2);
+        width: 100%;
+        height: 100%;
+        
+      
+    }
+    .col-3 {
+        flex:0 0 calc(100% / 12 * 3);
+        text-align: center;
+        font-size: 12px;
+    }
+    .col-8 {
+        display: inline-block;
+        flex:0 0 calc(100% / 12 * 8);
+    }
+    
+    .points {
+        padding-left: -30px;
+        padding-top: 50px;
+    }
+    
+
+    .col-md-4 img {
+        display: block;
+        margin: 0 auto; 
+       
+    }
+    .col-md-4 {
+        text-align: center; 
+    }
+
+    @media only screen and (max-width: 480px) {
+        .more ul .none {
+          display: none;
+        }
+      }
+      
+
+
+   
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*----ipad----*/
+@media (min-width: 768px) {
+    .container {
+        
+            width: 768px;
+        }
+    .pet-banner {
+        
+    height: 650px;
+    background-image: url(../img/petapp/petapplongcover.png); 
+    background-position: center;
+    margin: 0 auto; 
+    overflow: hidden;
+    }
+    
+    .ds {
+        color:gray;
+    }
+    
+    .p1 {
+        padding: 50px 150px 0px;
+        
+    }
+    
+    .p1 h2 {
+        display: inline-block;
+        border-bottom: 6px solid rgb(252, 210, 154);
+    }
+    .p2 {
+        margin: 0 auto;
+        text-align: center;
+        
+       
+        
+    }
+    .p2 h2 {
+        display: inline-block;
+        text-align: center;
+        
+        border-bottom: 6px solid rgb(252, 210, 154);
+        
+    }
+    .p3 {
+        margin: 0 auto;
+        text-align: center;
+        
+       
+        
+    }
+    .p3 h2 {
+        display: inline-block;
+        text-align: center;
+        
+        border-bottom: 6px solid rgb(252, 210, 154);
+        
+    }
+    .Designprocess {
+        width: 100%;
+    }
+    .red li::marker {
+        color: #F35D53;
+    }
+    .p1 ul {
+        padding-left: 15px;
+    }
+    .blue li::marker {
+        color: #75C3D5;
+    }
+    .green li::marker {
+        color: #82D575;
+    }
+    
+    .orange li::marker {
+        color: #FFC190;
+    }
+    
+    .blue p {
+        font-weight: bold;
+    }
+    .orange p{
+        font-weight: bold;
+    }
+
+    .Userinterviews {
+        text-align: center;
+    }
+    .info {
+        
+        width: 80%;
+        height: 80%;
+        margin: 0 auto;
+    }
+    
+    .swot {
+        width: 80%;
+        height: 80%;
+        margin: 0 auto;
+    }
+    
+    .emnathymap {
+        margin: 0 auto;
+        width: 80%;
+        height: 80%;
+        
+       
+    }
+    .competitor {
+        margin: 0 auto;
+        width: 80%;
+        height: 70%;
+        
+    }
+    .gain {
+        margin: 0 auto;
+        width: 70%;
+        height: 80%;
+    }
+    .userflow {
+        margin: 0 auto;
+        width: 80%;
+        height: 80%;
+    
+    }
+    .colors {
+        margin: 0 auto;
+        width: 50%;
+        height: 50%;
+    } 
+    .typography {
+        margin: 0 auto;
+        width: 50%;
+        height: 50%;
+    }
+    .button {
+        margin: 0 auto;
+        width: 50%;
+        height: 50%;
+    }
+    .cards {
+        margin: 0 auto;
+        width: 70%;
+        height: 70%;
+    }
+    .draw {
+        margin: 0 auto;
+        width: 70%;
+        height: 70%;
+    }
+    .components {
+        margin: 0 auto;
+        width: 70%;
+        height: 70%;
+    }
+    .logob {
+        margin: 0 auto;
+        width: 10%;
+        height: 10%;
+    }
+    .wireframe {
+        margin: 0 auto;
+        width: 80%;
+        height: 80%;
+    }
+    
+    .onboarding {
+        margin: 0 auto;
+        width: 80%;
+        height: 80%;
+    }
+    }
+    .homepage {
+        margin: 0 auto;
+        width: 70%;
+        height: 70%;
+        
+        
+    }
+    .knowlege {
+        margin: 0 auto;
+        width: 70%;
+        height: 70%;
+    }
+    .addpostpage {
+        margin: 0 auto;
+        width: 70%;
+        height: 70%;
+    }
+    
+    .datepage {
+        margin: 0 auto;
+        width: 70%;
+        height: 70%;
+    }
+    
+    .profilepage {
+        margin: 0 auto;
+        width: 70%;
+        height: 70%;
+    }
+    
+    .searchpage {
+        margin: 0 auto;
+        width: 70%;
+        height: 70%;
+    }
+    
+    .allscreen {
+        margin: 0 auto;
+        width: 80%;
+        height: 80%;
+    }
+    
+    .p2 p {
+        color: gray;
+        font-size: 20px;
+    }
+    
+    .more {
+        height: 200px;
+        margin-right: 0 auto;
+        margin-left: 0 auto;
+    }
+    .more ul {
+        height: 250px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      list-style: none;
+      padding: 0;
+    }
+    
+   
+    
+    .more ul li {
+            display: inline-block;
+            width: calc(33.33% - 2.5vw);
+            position: relative;
+            top: 0;
+            width: 200px;
+            height: 200px;
+            text-align: left;
+            transition: all .3s;
+            list-style: none;
+            margin-right: 10px;
+            margin-bottom: 10px;
+            border-radius: 4px;
+            background-color: #D9D9D9;
+            text-align: center;
+            line-height: 200px;
+    
+    
+    }
+    .more ul li img {
+       width: 100%;
+        height: 100%;
+      }
+    .more ul li:hover {
+        top: -3px;
+        box-shadow: 0 15px 30px rgb(0 0 0 / 10%);
+    }
+    
+    .more ul li a {
+        color: #000000;
+    } 
+    
+    .row {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .col {
+        flex:1 0 0;
+    }
+    .col-2 {
+        display: inline-block;
+        flex:0 0 calc(100% / 12 * 2);
+        width: 100%;
+        height: 100%;
+        
+      
+    }
+    .col-3 {
+        flex:0 0 calc(100% / 12 * 3);
+        text-align: center;
+        
+        
+    }
+    .col-8 {
+        display: inline-block;
+        flex:0 0 calc(100% / 12 * 8);
+    }
+    
+    .points {
+        margin-top: -20px;
+    }
+
+    @media only screen and (max-width: 600px) {
+  #image1, #image2 {
+    display: none;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+/*----web-web-----*/
+/*----web-web-----*/
+/*----web-web-----*/
+@media (min-width: 1200px) {
+.container {
+    position: relative;
+        width: 1200px;
+    }
+.pet-banner {
+    
+height: 650px;
+background-image: url(../img/petapp/petapplongcover.png); 
+background-position: center;
+margin: 0 auto; 
+overflow: hidden;
+}
+
+.ds {
+    color:gray;
+}
+
+.p1 {
+    padding: 50px 150px 0px;
+    
+}
+
+.p1 h2 {
+    display: inline-block;
+    border-bottom: 6px solid rgb(252, 210, 154);
+}
+.p2 {
+    margin: 0 auto;
+    text-align: center;
+    padding: 50px 150px 0px;
+   
+    
+}
+.p2 h2 {
+    display: inline-block;
+    text-align: center;
+    
+    border-bottom: 6px solid rgb(252, 210, 154);
+    
+}
+.p3 {
+    margin: 0 auto;
+    text-align: center;
+    
+   
+    
+}
+.p3 h2 {
+    display: inline-block;
+    text-align: center;
+    
+    border-bottom: 6px solid rgb(252, 210, 154);
+    
+}
+
+.red li::marker {
+    color: #F35D53;
+}
+.blue li::marker {
+    color: #75C3D5;
+}
+.green li::marker {
+    color: #82D575;
+}
+
+.orange li::marker {
+    color: #FFC190;
+}
+
+.blue p {
+    font-weight: bold;
+}
+.orange p{
+    font-weight: bold;
+}
+.Designprocess {
+    width: 100%;
+}
+.Userinterviews {
+    margin: 0 auto;
+    text-align: center;
+}
+.info {
+    
+    width: 80%;
+    height: 80%;
+    margin: 0 auto;
+}
+
+.swot {
+    width: 80%;
+    height: 80%;
+    margin: 0 auto;
+}
+
+.emnathymap {
+    margin: 0 auto;
+    width: 80%;
+    height: 80%;
+    
+   
+}
+.competitor {
+    margin: 0 auto;
+    width: 80%;
+    height: 70%;
+    
+}
+.gain {
+    margin: 0 auto;
+    width: 70%;
+    height: 80%;
+}
+.userflow {
+    margin: 0 auto;
+    width: 80%;
+    height: 80%;
+
+}
+.colors {
+    margin: 0 auto;
+    width: 50%;
+    height: 50%;
+} 
+.typography {
+    margin: 0 auto;
+    width: 50%;
+    height: 50%;
+}
+.button {
+    margin: 0 auto;
+    width: 50%;
+    height: 50%;
+}
+.cards {
+    margin: 0 auto;
+    width: 70%;
+    height: 70%;
+}
+.draw {
+    margin: 0 auto;
+    width: 70%;
+    height: 70%;
+}
+.components {
+    margin: 0 auto;
+    width: 70%;
+    height: 70%;
+}
+.logob {
+    margin: 0 auto;
+    width: 10%;
+    height: 10%;
+}
+.wireframe {
+    margin: 0 auto;
+    width: 80%;
+    height: 80%;
+}
+
+.onboarding {
+    margin: 0 auto;
+    width: 80%;
+    height: 80%;
+}
+
+.homepage {
+    margin: 0 auto;
+    width: 70%;
+    height: 70%;
+    
+    
+}
+.knowlege {
+    margin: 0 auto;
+    width: 70%;
+    height: 70%;
+}
+.addpostpage {
+    margin: 0 auto;
+    width: 70%;
+    height: 70%;
+}
+
+.datepage {
+    margin: 0 auto;
+    width: 70%;
+    height: 70%;
+}
+
+.profilepage {
+    margin: 0 auto;
+    width: 70%;
+    height: 70%;
+}
+
+.searchpage {
+    margin: 0 auto;
+    width: 70%;
+    height: 70%;
+}
+
+.allscreen {
+    margin: 0 auto;
+    width: 80%;
+    height: 80%;
+}
+
+.p2 p {
+    color: gray;
+    font-size: 20px;
+}
+
+
+.more ul {
+    height: 300px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style: none;
+  padding: 0;
+}
+
+.more ul li {
+  display: inline-block;
+  width: calc(33.33% - 5vw);
+  height: auto;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+  background-color: #D9D9D9;
+  text-align: center;
+  line-height: 300px;
+  overflow: hidden;
+  position: relative;
+  transition: all .3s;
+}
+
+.more ul li:hover {
+  top: -3px;
+  box-shadow: 0 15px 30px rgb(0 0 0 / 10%);
+}
+
+.more ul li img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.more ul li a {
+  color: #000000;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+.col {
+    flex:1 0 0;
+}
+.col-2 {
+    display: inline-block;
+    flex:0 0 calc(100% / 12 * 2);
+    width: 100%;
+    height: 100%;
+    
+  
+}
+.col-3 {
+    flex:0 0 calc(100% / 12 * 3);
+    text-align: center;
+    font-size: 16px;
+   
+}
+.col-8 {
+    display: inline-block;
+    flex:0 0 calc(100% / 12 * 8);
+    
+    margin-top: -50px;
+}
+.points {
+    padding-top: -50px;
+}
+
+
+.bar {
+    display: block;
+    position: fixed;
+   
+    z-index: 99998;
+    right: 10px;
+}
+
+.bar li a {
+    text-decoration: none;
+    color: #000000;
+}
+
+.bar li a:hover {
+    color: #2f7b8c;
+    text-decoration: underline #2f7b8c;
+    font-weight: bold;
+   
+}
+
+.bar li::marker {
+    color: #2f7b8c;
+}
+
+
+/*<ul class="bar">
+                <li><a href="#about">About project</a></li>
+                <li><a href="#design">Design Process</a></li>
+                <li><a href="#userresearch">User research</a></li>
+                <li><a href="#competitor">Competitor analysis</a></li>
+                <li><a href="#userflow">User flow</a></li>
+                <li><a href="#wireframe">Wireframe</a></li>
+                <li><a href="#onboardingscreen">Onboarding screen</a></li>
+            </ul> */ 
+
+    
+
+    .col-4 {
+        display: inline-block;
+        flex:0 0 calc(100% / 12 * 4);  
+            }
+
+    .col-5 {
+        display: inline-block;
+        flex:0 0 calc(100% / 12 * 5);  
+            }
+
+    .col-6 {
+        display: inline-block;
+        flex:0 0 calc(100% / 12 * 6);  
+            }
+
+    .col-7 {
+        display: inline-block;
+        flex:0 0 calc(100% / 12 * 7);  
+            }
+
+
+    .col-9 {
+        display: inline-block;
+        flex:0 0 calc(100% / 12 * 9);  
+            }
+
+    .col-10 {
+        display: inline-block;
+        flex:0 0 calc(100% / 12 * 10);  
+            }
+
+    .col-11 {
+        display: inline-block;
+        flex:0 0 calc(100% / 12 * 10);  
+         }
+
+    .col-12 {
+       display: inline-block;
+       flex:0 0 calc(100% / 12 * 10);  
+        }
+
+    
+}
+
+
+
