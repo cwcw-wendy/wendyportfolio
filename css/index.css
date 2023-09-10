@@ -128,7 +128,7 @@
     .container,
     .container-md,
     .container-sm {
-        max-width: 768px;
+        max-width: 1200px;
     }
     .div.container {
         width: 768px;

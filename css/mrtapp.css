@@ -508,7 +508,7 @@ overflow: hidden;
 }
 
 .p1 {
-    padding: 50px 150px 0px;
+    padding: 50px 25px 0px;
     
 }
 
@@ -625,11 +625,11 @@ overflow: hidden;
   width: calc(33.33% - 5vw);
   height: auto;
   margin-right: 20px;
-  margin-bottom: 10px;
+  margin-bottom: 100%;
   border-radius: 4px;
   background-color: #D9D9D9;
   text-align: center;
-  line-height: 300px;
+  line-height: 100%;
   overflow: hidden;
   position: relative;
   transition: all .3s;
