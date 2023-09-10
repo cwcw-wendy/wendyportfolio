@@ -27,21 +27,21 @@ export default defineConfig({
   // base: '/Repository 的名稱/'
   base: '/wendyportfolio/',
   plugins: [
-    liveReload(['./**/*.ejs', './**/*.ejs', './**/*.html']),
+    liveReload(['./**/*.ejs', './**/*.ejs', './pages/**/*.html']),
     ViteEjsPlugin(),
     moveOutputPlugin(),
   ],
   server: {
     // 啟動 server 時預設開啟的頁面
-    open: 'index.html',
+    open: 'pages/index.html',
   },
   build: {
     rollupOptions: {
       input: Object.fromEntries(
         glob
-          .sync('./**/*.html')
+          .sync('pages/**/*.html')
           .map((file) => [
-            path.relative('./', file.slice(0, file.length - path.extname(file).length)),
+            path.relative('pages', file.slice(0, file.length - path.extname(file).length)),
             fileURLToPath(new URL(file, import.meta.url)),
           ])
       ),
