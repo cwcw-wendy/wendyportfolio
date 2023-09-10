@@ -520,7 +520,7 @@ overflow: hidden;
 .p2 {
     margin: 0 auto;
     text-align: center;
-    padding: 50px 150px 0px;
+    padding: 50px 25px 0px;
    
     
 }
@@ -696,14 +696,14 @@ overflow: hidden;
 }
 
 .bar li a:hover {
-    color: #2f7b8c;
-    text-decoration: underline #2f7b8c;
+    color: #be6f15;
+    text-decoration: underline #be6f15;
     font-weight: bold;
    
 }
 
 .bar li::marker {
-    color: #2f7b8c;
+    color: #be6f15;
 }
 
 
