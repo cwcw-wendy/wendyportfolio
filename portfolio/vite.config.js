@@ -47,5 +47,6 @@ export default defineConfig({
       ),
     },
     outDir: 'dist',
+    assetsInclude: ['**/*.png', '**/*.jpg', '**/*.svg', '**/*.gif, **./pdf']
   },
 });
